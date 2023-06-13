@@ -1,0 +1,15 @@
+.Home{
+   height: 90vh;   
+   margin: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.Home button{
+   width: 20vh;
+   height: 20vh;
+   background-color: #d84ad6;
+   border-radius: 20px;
+}
